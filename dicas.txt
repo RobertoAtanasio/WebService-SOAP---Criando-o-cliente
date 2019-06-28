@@ -1,0 +1,6 @@
+1. na raiz da aplicação, executar: 
+
+mvnw clean install -DskipTests 
+
+para gerar as classes referentes ao arquivo paises.xsd
+
